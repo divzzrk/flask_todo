@@ -4,7 +4,7 @@ defusedxml==0.6.0
 django==3.0rc1
 Flask==1.1.1
 Flask-SQLAlchemy==2.4.4
-gunicorn==20.0.4
+gunicorn==23.0.0
 itsdangerous==1.1.0
 Jinja2==2.10.3
 lxml==4.4.1
